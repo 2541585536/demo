@@ -7,6 +7,16 @@
 <title>Insert title here</title>
 </head>
 <body>
-hello nexus maven! success!
+hello nexus maven!
+
+why push failed???
+
+???
+??????
+<<<<<<< HEAD
+
+明白了，原来是要在github上点master主分支里面。
+=======
+>>>>>>> branch 'master' of https://github.com/2541585536/demo.git
 </body>
 </html>
