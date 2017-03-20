@@ -12,5 +12,8 @@ hello nexus maven!
 why push failed???
 
 ???
+??????
+
+明白了，原来是要在github上点master主分支里面。
 </body>
 </html>
